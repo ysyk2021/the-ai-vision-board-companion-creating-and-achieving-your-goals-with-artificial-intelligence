@@ -1,5 +1,3 @@
-Historical Overview of AI in Goal Setting and Achievement
-======================================================================================================================
 
 Artificial intelligence (AI) has become an increasingly popular tool for goal setting and achievement, but its history in this field dates back several decades. In this chapter, we will provide a historical overview of AI in goal setting and achievement.
 

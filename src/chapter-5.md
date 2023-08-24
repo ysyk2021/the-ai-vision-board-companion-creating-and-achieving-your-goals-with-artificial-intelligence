@@ -1,5 +1,3 @@
-Chapter 5: Applications of AI in Goal Setting and Achievement
-=============================================================
 
 As the use of AI continues to grow, so too does its potential to transform the way we approach goal setting and achievement. In this chapter, we'll explore some of the key applications of AI in this area, including vision board creation and visualization, habit tracking and analysis, and personalized coaching and feedback.
 

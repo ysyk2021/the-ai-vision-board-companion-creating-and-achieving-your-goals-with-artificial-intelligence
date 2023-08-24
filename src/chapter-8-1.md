@@ -1,5 +1,3 @@
-Emerging Trends
-========================================================================
 
 As AI continues to advance, its potential for transforming the way we approach goal setting and achievement is becoming increasingly clear. In this chapter, we'll explore some of the emerging trends in AI for this area.
 

@@ -1,5 +1,3 @@
-Preparing for the Future
-=================================================================================
 
 Artificial intelligence (AI) has already had a significant impact on goal setting and achievement, and its potential for future growth is enormous. In this chapter, we will explore some of the trends and developments in AI that are likely to shape the future of goal setting and achievement.
 

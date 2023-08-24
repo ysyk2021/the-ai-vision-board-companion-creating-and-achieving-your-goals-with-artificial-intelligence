@@ -1,5 +1,3 @@
-Data Management
-=======================================================================
 
 Artificial intelligence (AI) relies heavily on data to power its algorithms and decision-making processes. As such, effective data management is essential for successful implementation of AI in goal setting and achievement. In this chapter, we will explore best practices for managing data in AI-powered tools and apps.
 

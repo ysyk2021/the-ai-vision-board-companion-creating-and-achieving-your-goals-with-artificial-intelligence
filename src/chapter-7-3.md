@@ -1,5 +1,3 @@
-Addressing Potential Bias
-=================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize goal setting and achievement, but it's important to approach its use in a thoughtful and ethical manner. One potential concern is bias in the AI-powered tools and apps used for goal setting and achievement. In this chapter, we will explore how to address potential bias in AI.
 

@@ -1,5 +1,3 @@
-Chapter 8: Future of AI in Goal Setting and Achievement
-=======================================================
 
 As AI continues to evolve, so too does its potential to transform the way we approach goal setting and achievement. In this chapter, we'll explore some of the emerging trends in AI for this area, as well as the potential challenges and opportunities that lie ahead.
 

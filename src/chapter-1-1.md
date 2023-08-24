@@ -1,5 +1,3 @@
-Overview of the Book
-=============================================
 
 Welcome to "The AI-Vision Board Companion: Creating and Achieving Your Goals with Artificial Intelligence". This book is designed to help individuals leverage the power of artificial intelligence (AI) to set and achieve their goals more efficiently and effectively.
 
