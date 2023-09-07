@@ -6,3 +6,7 @@ This book is designed to be a comprehensive guide to using AI for goal setting a
 Whether you're looking to improve your health and fitness, advance your career, or pursue any other type of goal, The AI-Vision Board Companion: Creating and Achieving Your Goals with Artificial Intelligence is the ultimate guide to unlocking the power of AI to help you achieve your dreams. So let's get started and discover how AI can revolutionize the way we approach goal setting and achievement.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
