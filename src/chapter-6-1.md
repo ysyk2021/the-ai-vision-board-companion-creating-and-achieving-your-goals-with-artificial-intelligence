@@ -1,5 +1,4 @@
-Chapter 8: Developing an AI Strategy
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the process of developing an AI strategy specifically tailored for utilizing AI vision boards to create and achieve goals. Crafting a well-defined AI strategy enables individuals to leverage AI technologies effectively and align them with their unique aspirations and objectives.
 

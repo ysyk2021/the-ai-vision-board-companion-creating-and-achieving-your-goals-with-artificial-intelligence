@@ -1,5 +1,4 @@
-Chapter 10: Legal Considerations
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the legal considerations associated with utilizing artificial intelligence (AI) vision boards for creating and achieving goals. Understanding and complying with relevant laws and regulations is crucial to ensure a legally sound and ethical use of AI technologies.
 

@@ -1,5 +1,4 @@
-Chapter 5: Overcoming Resistance to Change
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the challenges associated with resistance to change when adopting artificial intelligence (AI) technologies for goal setting and achievement. We delve into strategies for overcoming resistance and fostering a mindset that embraces the potential of AI as a powerful tool for personal growth and success.
 

@@ -1,5 +1,4 @@
-Chapter 6: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the ethical considerations that arise when using artificial intelligence (AI) technologies, specifically AI vision boards, for creating and achieving goals. Understanding and addressing these ethical considerations is crucial for ensuring responsible and ethical use of AI in goal setting.
 

@@ -1,5 +1,4 @@
-Chapter 5: Historical Overview of AI in Goal Setting and Achievement
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the historical evolution of artificial intelligence (AI) in the context of goal setting and achievement. Understanding the progression of AI technologies and their impact on goal attainment provides valuable insights into the development and potential of AI vision boards.
 

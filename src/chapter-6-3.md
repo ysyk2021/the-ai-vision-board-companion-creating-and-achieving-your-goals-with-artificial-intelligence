@@ -1,5 +1,4 @@
-Chapter 7: Best Practices for Implementation
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the best practices for implementing artificial intelligence (AI) vision boards effectively. These practices aim to maximize the benefits of AI technologies while ensuring a seamless integration into the goal-setting process. By following these best practices, individuals can enhance their goal achievement journey with the assistance of AI.
 

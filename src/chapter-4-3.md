@@ -1,5 +1,4 @@
-Chapter 9: Privacy and Security Concerns
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the privacy and security concerns that arise when using artificial intelligence (AI) vision boards for creating and achieving goals. Understanding and addressing these concerns is crucial to ensure the safe and responsible use of AI technologies while protecting the privacy and data security of users.
 
